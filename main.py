@@ -265,7 +265,7 @@ if __name__ == "__main__":
         names = ['clipart', 'painting', 'real', 'sketch']
         args.names = ['clipart', 'painting', 'real', 'sketch']
         args.class_num = 126
-        args.root = '/root/autodl-tmp/data/'  # root for images
+        args.root = '/userhome/home/hejiujun/data'  # root for images
 
     os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu_id
     SEED = args.seed
