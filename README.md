@@ -39,4 +39,4 @@ Here is an example of training on Offce-Home benchmark under 1-shot setting.
 `
 
 ## Acknowledgement
-Our code is based on [SSDA_MME](https://github.com/VisionLearningGroup/SSDA_MME), [SHOT](https://github.com/tim-learn/SHOT), and [NRC](https://github.com/Albert0147/SFDA_neighbors) implementations.
+Our code is partially based on [SSDA_MME](https://github.com/VisionLearningGroup/SSDA_MME), [SHOT](https://github.com/tim-learn/SHOT), and [NRC](https://github.com/Albert0147/SFDA_neighbors) implementations.
